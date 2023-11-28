@@ -3,6 +3,7 @@ import React, { useState } from 'react';
 import FileInput from './Components/FileInput';
 import parseExcel from './Components/ParseExcel';
 import ExcelGenerator from './Components/ExcelGenerator';
+import NetworkStatus from './Components/NetworkStatus';
 
 
 const App = () => {
@@ -28,6 +29,9 @@ const App = () => {
       </div>
       <div>
         <ExcelGenerator />
+      </div>
+      <div>
+        <NetworkStatus />
       </div>
     </>
   );

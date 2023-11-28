@@ -9,7 +9,7 @@ const ExcelGenerator = () => {
                 {
                     "horse_id": "H0011",
                     "Horse Name": "Morgan",
-                    "Date Of Birth": 45236,
+                    "Date Of Birth": "24-11-2023",
                     "Gender": "stallion",
                     "Birth Origin": "Åland Islands",
                     "Breed": "Hunter",
@@ -39,7 +39,7 @@ const ExcelGenerator = () => {
                 {
                     "horse_id": "H0010",
                     "Horse Name": "Ashawa",
-                    "Date Of Birth": 35829,
+                    "Date Of Birth": "24-11-2023",
                     "Gender": "stallion",
                     "Birth Origin": "Albania",
                     "Breed": "Hunter",
@@ -68,7 +68,7 @@ const ExcelGenerator = () => {
                 {
                     "horse_id": "H0009",
                     "Horse Name": "Morgan",
-                    "Date Of Birth": 45231,
+                    "Date Of Birth": "24-11-2023",
                     "Gender": "stallion",
                     "Birth Origin": "Åland Islands",
                     "Breed": "Hunter",
@@ -97,7 +97,7 @@ const ExcelGenerator = () => {
                 {
                     "horse_id": "H0008",
                     "Horse Name": "varan",
-                    "Date Of Birth": 42795,
+                    "Date Of Birth": "24-11-2023",
                     "Gender": "stallion",
                     "Birth Origin": "Åland Islands",
                     "Breed": "Hunter",
@@ -126,7 +126,7 @@ const ExcelGenerator = () => {
                 {
                     "horse_id": "H0007",
                     "Horse Name": "Neel",
-                    "Date Of Birth": 33764,
+                    "Date Of Birth": "24-11-2023",
                     "Gender": "stallion",
                     "Birth Origin": "Anguilla",
                     "Breed": "Hunter",
@@ -155,7 +155,7 @@ const ExcelGenerator = () => {
                 {
                     "horse_id": "H0006",
                     "Horse Name": "sharu",
-                    "Date Of Birth": 41718,
+                    "Date Of Birth": "24-11-2023",
                     "Gender": "stallion",
                     "Birth Origin": "Angola",
                     "Breed": "Mustang",
@@ -184,7 +184,7 @@ const ExcelGenerator = () => {
                 {
                     "horse_id": "H0005",
                     "Horse Name": "marry",
-                    "Date Of Birth": 45211,
+                    "Date Of Birth": "24-11-2023",
                     "Gender": "stallion",
                     "Birth Origin": "Afghanistan",
                     "Breed": "Mustang",
@@ -213,7 +213,7 @@ const ExcelGenerator = () => {
                 {
                     "horse_id": "H0004",
                     "Horse Name": "shashi",
-                    "Date Of Birth": 42088,
+                    "Date Of Birth": "24-11-2023",
                     "Gender": "stallion",
                     "Birth Origin": "Åland Islands",
                     "Breed": "Hunter",
@@ -242,7 +242,7 @@ const ExcelGenerator = () => {
                 {
                     "horse_id": "H0003",
                     "Horse Name": "RAMLAL",
-                    "Date Of Birth": 45219,
+                    "Date Of Birth": "24-11-2023",
                     "Gender": "stallion",
                     "Birth Origin": "Åland Islands",
                     "Breed": "Hunter",
@@ -271,7 +271,7 @@ const ExcelGenerator = () => {
                 {
                     "horse_id": "H0002",
                     "Horse Name": "rocky",
-                    "Date Of Birth": 44246,
+                    "Date Of Birth": "24-11-2023",
                     "Gender": "stallion",
                     "Birth Origin": "Åland Islands",
                     "Breed": "Mustang",
